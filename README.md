@@ -7,3 +7,5 @@ To run the tests, you should first put your my-look.c in the root directory of t
 
 Run command   ```chmod +x test.sh```
 to give the test.sh permission and then execute test.sh within the root directory.
+
+Remember to run it on CSL machine!
