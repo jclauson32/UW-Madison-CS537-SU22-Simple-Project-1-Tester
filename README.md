@@ -1,7 +1,7 @@
 # UW-Madison-CS537-SU22-Simple-Project-1-Tester
 This repository automatically tests your my-look implementation by compare your output with output given by look command in Linux. Unfortunately, it can not test with stdin, only with files.
 
-This is NOT official project tester! The scripts are made by a student, for students.
+This is NOT an official project tester! The scripts are made by a student, for students. It may not be 100% accurate!!! Passing all tests does not mean your my-look is 100% correct! 
 
 To run the tests, you should first put your my-look.c in the root directory of the repository folder.
 
