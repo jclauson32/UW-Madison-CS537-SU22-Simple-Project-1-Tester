@@ -5,4 +5,6 @@ This is NOT official project tester! The scripts are made by a student, for stud
 
 To run the tests, you should first put your my-look.c in the root directory of the repository folder.
 
-Run command   chmod +x test.sh   to give the test.sh permission and then execute test.sh within the root directory.
+Run command   
+```chmod +x test.sh```
+to give the test.sh permission and then execute test.sh within the root directory.
