@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 echo "CS537 SU22 Project 1 Sample Tester"
-echo "Authored: Leping Li"
+echo "Author: Leping Li"
 echo "---------------------------------"
 
 UNAME_S=$(uname -s)
